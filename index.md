@@ -29,10 +29,8 @@ that are loaded into memory where they hang out until reboot. No file system cha
 
 ## Builds
 
-For Windows 7 SP1 and earlier operating systems
+For Windows 7 SP1 and earlier operating systems (0.2.1.0)
 > [http://uxstyle.com/builds/UxStyle_Core_jul13_bits.zip](http://uxstyle.com/builds/UxStyle_Core_jul13_bits.zip)
-0.2.1.0
 
-For Windows 8 (does not yet support 8.1)
+For Windows 8 (0.2.2.0 beta)
 > [http://uxstyle.com/builds/UxStyle_Core_sep03_experimental_bits.zip](http://uxstyle.com/builds/UxStyle_Core_sep03_experimental_bits.zip)
-0.2.2.0 beta
