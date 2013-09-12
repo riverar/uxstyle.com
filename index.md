@@ -1,46 +1,36 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: UxStyle
+tagline:
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## About
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+UxStyle is a bit of software that tricks the Windows operating system into thinking
+third party themes are signed by Microsoft. Specifically, UxStyle consists of a tiny system service and a kernel driver
+that are loaded into memory where they hang out until reboot. No file system changes are made.
 
-## Update Author Attributes
+(First introduced on March 19, 2009.)
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+## Supported Operating Systems
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+* Windows codenamed "Whistler" (escrow builds)
+* Windows XP
+* Windows Vista
+* Windows 7
+* Windows 8
+* Windows 8.1 *(coming soon this week)*
+* Windows Server 2003
+* Windows Server 2008
+* Windows Server 2008 R2
+* Windows Server 2012
+* Windows Server 2012 R2
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+## Builds
 
-    $ rm -rf _posts/core-samples
+For Windows 7 SP1 and earlier operating systems
+> [http://uxstyle.com/builds/UxStyle_Core_jul13_bits.zip](http://uxstyle.com/builds/UxStyle_Core_jul13_bits.zip)
 
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+For Windows 8 (does not yet support 8.1)
+> [http://uxstyle.com/builds/UxStyle_Core_sep03_experimental_bits.zip](http://uxstyle.com/builds/UxStyle_Core_sep03_experimental_bits.zip)
