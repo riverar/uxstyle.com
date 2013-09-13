@@ -5,15 +5,17 @@ tagline:
 ---
 {% include JB/setup %}
 
-## About
+# UxStyle
 
-UxStyle is a bit of software that tricks the Windows operating system into thinking
-third party themes are signed by Microsoft. Specifically, UxStyle consists of a tiny system service and a kernel driver
-that are loaded into memory where they hang out until reboot. No file system changes are made.
+### About
+
+UxStyle is a bit of software that relaxes Windows theme signature requirements to enable third-party customization.
+Specifically, UxStyle consists of a tiny system service and a kernel driver that are loaded into memory where they
+hang out until reboot. No file system changes are made.
 
 (First introduced on March 19, 2009.)
 
-## Operating System Support
+### Operating System Support
 
 * Windows codenamed "Whistler" (escrow builds)
 * Windows XP
@@ -27,7 +29,7 @@ that are loaded into memory where they hang out until reboot. No file system cha
 * Windows Server 2012
 * Windows Server 2012 R2 *coming soon*
 
-## Builds
+### Builds
 
 For Windows 7 SP1 and earlier operating systems (0.2.1.0)
 > [http://uxstyle.com/builds/UxStyle_Core_jul13_bits.zip](http://uxstyle.com/builds/UxStyle_Core_jul13_bits.zip)
