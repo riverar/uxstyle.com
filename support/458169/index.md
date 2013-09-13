@@ -18,10 +18,9 @@ When launching the installation package for UxStyle software, you may receive an
 
 ### Cause
 
-As a result of a compatibility issue with Windows 8.1, and some unfortunate politics, Microsoft has pushed out an
-application compatibility "hardblock". Hardblocks are typically applied to an application if the application causes a
-catastrophic failure (data loss, blue screen, upgrade process failure, system instability, etc.) or gives users too
-much control over the appearance of Windows on their PC.
+As a result of a compatibility issue with Windows 8.1 Microsoft has pushed out an application compatibility "hardblock".
+Hardblocks are typically applied to an application if the application causes a catastrophic failure (data loss, blue
+screen, upgrade process failure, system instability, etc.).
 
 ### Resolution
 
