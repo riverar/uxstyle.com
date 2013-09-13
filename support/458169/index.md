@@ -40,4 +40,5 @@ in Windows Shell failures.
 ### Properties
 
 Ref ID: 458169
+
 Applies to: UxStyle 0.2.2.0 and earlier
