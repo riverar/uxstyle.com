@@ -12,9 +12,9 @@ Last updated: September 23, 2013
 
 #### The Short Version
 
-You can download, install, and use our software. That’s it. No you can’t bundle us with your application or "downloader".
-No you can’t extract the package and slipstream it into your OS. You can email us for possible exclusions, but no promises
-there. (We’re generally nice people, so do try)
+You can download, install, and use our software. That's it. No you can't bundle us with your application or "downloader".
+No you can't extract the package and slipstream it into your OS. You can email us for possible exclusions, but no promises
+there. (We're generally nice people, so do try)
 
 #### The Long "boring" Version
 
@@ -59,7 +59,6 @@ b.	If any provision of this License is invalid or unenforceable under applicable
 c.	No term or provision of this License shall be deemed waived and no breach consented to unless such waiver or consent shall be in writing and signed by the party to be charged with such waiver or consent.
 d.	This License constitutes the entire agreement between the parties with respect to the Work licensed here. There are no understandings, agreements or representations with respect to the Work not specified here. Licensor shall not be bound by any additional provisions that may appear in any communication from You. This License may not be modified without the mutual written agreement of the Licensor and You.
 
-### Changelog
+#### Changelog
 
-* 0.2.3.0: Added "no downloader" clause.
-* 0.2.2.0 and earlier: Initial
+* September 23, 2013: Added "no downloader" clause.
