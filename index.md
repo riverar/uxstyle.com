@@ -22,17 +22,17 @@ hang out until reboot. No file system changes are made.
 * Windows Vista
 * Windows 7
 * Windows 8
-* Windows 8.1 *coming soon*
+* Windows 8.1
 * Windows Server 2003
 * Windows Server 2008
 * Windows Server 2008 R2
 * Windows Server 2012
-* Windows Server 2012 R2 *coming soon*
+* Windows Server 2012 R2
 
 ### Builds
 
 For Windows 7 SP1 and earlier operating systems (0.2.1.0)
 > [http://uxstyle.com/builds/UxStyle_Core_jul13_bits.zip](http://uxstyle.com/builds/UxStyle_Core_jul13_bits.zip)
 
-For Windows 8 (0.2.2.0 beta)
-> [http://uxstyle.com/builds/UxStyle_Core_sep03_experimental_bits.zip](http://uxstyle.com/builds/UxStyle_Core_sep03_experimental_bits.zip)
+For Windows 8 (0.2.3.0)
+> [http://uxstyle.com/builds/UxStyle_sep23_x86_x64.zip](http://uxstyle.com/builds/UxStyle_sep23_x86_x64.zip)
