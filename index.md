@@ -34,5 +34,5 @@ hang out until reboot. No file system changes are made.
 For Windows 7 SP1 and earlier operating systems (0.2.1.0)
 > [http://uxstyle.com/builds/UxStyle_Core_jul13_bits.zip](http://uxstyle.com/builds/UxStyle_Core_jul13_bits.zip)
 
-For Windows 8 (0.2.3.0)
+For Windows 8 and later operating systems (0.2.3.0)
 > [http://uxstyle.com/builds/UxStyle_sep23_x86_x64.zip](http://uxstyle.com/builds/UxStyle_sep23_x86_x64.zip)
