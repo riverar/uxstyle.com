@@ -28,6 +28,7 @@ hang out until reboot. No file system changes are made.
 * Windows Server 2008 R2
 * Windows Server 2012
 * Windows Server 2012 R2
+* Windows codenamed "Threshold"
 
 ### Builds
 
@@ -36,3 +37,6 @@ For Windows 7 SP1 and earlier operating systems (0.2.1.0)
 
 For Windows 8 and later operating systems (0.2.3.0)
 > [http://uxstyle.com/builds/UxStyle_sep23_x86_x64_possibly_bugged.zip](http://uxstyle.com/builds/UxStyle_sep23_x86_x64_possibly_bugged.zip)
+
+Preview: For Windows codenamed "Threshold" (0.2.4.0)
+> [http://uxstyle.com/builds/UxStyle_sep15_x86_x64_preview.zip](http://uxstyle.com/builds/UxStyle_sep15_x86_x64_preview.zip)
