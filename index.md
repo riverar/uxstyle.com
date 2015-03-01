@@ -39,5 +39,5 @@ For Windows 7 SP1 and earlier operating systems (0.2.1.0) > [http://uxstyle.com/
 
 For Windows 8 and 8.1 operating systems (0.2.3.0) > [http://uxstyle.com/builds/UxStyle_sep23_x86_x64_possibly_bugged.zip](http://uxstyle.com/builds/UxStyle_sep23_x86_x64_possibly_bugged.zip)
 
-Preview: For Windows 10 Technical Preview ([0.2.4.1-r2](https://github.com/riverar/uxstyle/releases/tag/0.2.4.1-r2)) >
-[https://github.com/riverar/uxstyle/releases/download/0.2.4.1-r2/UxStyle_0241_x86_x64_rel2_preview.exe](https://github.com/riverar/uxstyle/releases/download/0.2.4.1-r2/UxStyle_0241_x86_x64_rel2_preview.exe)
+Preview: For Windows 10 Technical Preview ([0.2.4.2](https://github.com/riverar/uxstyle/releases/tag/0.2.4.2)) >
+[https://github.com/riverar/uxstyle/releases/download/0.2.4.2/UxStyle_0242_x86_x64_preview.exe](https://github.com/riverar/uxstyle/releases/download/0.2.4.2/UxStyle_0242_x86_x64_preview.exe)
